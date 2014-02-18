@@ -41,7 +41,6 @@ function dealer_hits() {
     }).done(function(msg){
       $('#game').replaceWith(msg);
     });
-    alert("Dealer hits!");
     return false;
   });
 }
