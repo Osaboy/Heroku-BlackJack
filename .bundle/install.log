@@ -1,0 +1,25 @@
+# Logfile created on 2014-02-17 21:51:15 -0800 by logger.rb/41954
+I, [2014-02-17T21:51:15.368624 #13789]  INFO -- : 0:  coderay (1.0.9) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/coderay-1.0.9.gemspec
+I, [2014-02-17T21:51:16.909266 #13789]  INFO -- : 0:  daemons (1.1.9) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/daemons-1.1.9.gemspec
+I, [2014-02-17T21:51:45.963795 #13789]  INFO -- : 0:  eventmachine (1.0.0) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/eventmachine-1.0.0.gemspec
+I, [2014-02-17T21:51:47.651113 #13789]  INFO -- : 0:  method_source (0.8.1) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/method_source-0.8.1.gemspec
+I, [2014-02-17T21:51:48.323829 #13789]  INFO -- : 0:  slop (3.4.4) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/slop-3.4.4.gemspec
+I, [2014-02-17T21:51:50.926705 #13789]  INFO -- : 0:  pry (0.9.12.1) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/pry-0.9.12.1.gemspec
+I, [2014-02-17T21:51:52.997046 #13789]  INFO -- : 0:  rack (1.5.2) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-02-17T21:51:54.015282 #13789]  INFO -- : 0:  rack-protection (1.3.2) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.3.2.gemspec
+I, [2014-02-17T21:51:55.464773 #13789]  INFO -- : 0:  tilt (1.3.3) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.3.3.gemspec
+I, [2014-02-17T21:51:57.571011 #13789]  INFO -- : 0:  sinatra (1.3.4) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.3.4.gemspec
+I, [2014-02-17T21:52:00.211638 #13789]  INFO -- : 0:  thin (1.5.0) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/thin-1.5.0.gemspec
+I, [2014-02-17T21:52:00.212654 #13789]  INFO -- : 0:  bundler (1.5.1) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-02-18T19:34:20.972152 #57849]  INFO -- : 0:  coderay (1.0.9) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/coderay-1.0.9.gemspec
+I, [2014-02-18T19:34:20.986331 #57849]  INFO -- : 0:  daemons (1.1.9) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/daemons-1.1.9.gemspec
+I, [2014-02-18T19:34:20.986986 #57849]  INFO -- : 0:  eventmachine (1.0.0) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/eventmachine-1.0.0.gemspec
+I, [2014-02-18T19:34:20.987552 #57849]  INFO -- : 0:  method_source (0.8.1) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/method_source-0.8.1.gemspec
+I, [2014-02-18T19:34:20.988037 #57849]  INFO -- : 0:  slop (3.4.4) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/slop-3.4.4.gemspec
+I, [2014-02-18T19:34:20.988418 #57849]  INFO -- : 0:  pry (0.9.12.1) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/pry-0.9.12.1.gemspec
+I, [2014-02-18T19:34:20.992488 #57849]  INFO -- : 0:  rack (1.5.2) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-02-18T19:34:20.993416 #57849]  INFO -- : 0:  rack-protection (1.3.2) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.3.2.gemspec
+I, [2014-02-18T19:34:20.993926 #57849]  INFO -- : 0:  tilt (1.3.3) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.3.3.gemspec
+I, [2014-02-18T19:34:20.994433 #57849]  INFO -- : 0:  sinatra (1.3.4) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.3.4.gemspec
+I, [2014-02-18T19:34:20.994982 #57849]  INFO -- : 0:  thin (1.5.0) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353/specifications/thin-1.5.0.gemspec
+I, [2014-02-18T19:34:20.995361 #57849]  INFO -- : 0:  bundler (1.5.1) from /Users/osazuwa/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
