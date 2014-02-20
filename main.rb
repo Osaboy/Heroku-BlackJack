@@ -123,8 +123,10 @@ get '/bet' do
 
   if session[:player_name].empty?
     redirect '/new_player'
+  elsif session[:player_pot] <= 0
+    redirect '/broke'
   end
-  
+    
   erb :bet
 end
 
@@ -247,5 +249,9 @@ end
 
 get '/game_over' do
 	erb :game_over
+end
+
+get '/broke' do
+  erb :broke
 end
 
